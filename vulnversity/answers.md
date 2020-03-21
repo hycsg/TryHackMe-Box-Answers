@@ -29,5 +29,9 @@
 5. **What user was running the web serer?**: `bill`
 6. **What is the user flag?**: `8bd7992fbe8a6ad22a63361004cfcedb`
 
+## Task 5 (Privilege Escalation)
+
+1. **On the system, search for all SUID files. What file stands out?**: `/bin/systemctl`
+
 
 
