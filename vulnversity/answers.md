@@ -25,6 +25,8 @@
 1. **Try upload a few file types to the server, what common extension seems to be blocked?**: `.php`
 2. **To identify which extensions are not blocked, we're going to fuzz the upload form. To do this, we're doing to use BurpSuite. If you are unsure to what BurpSuite is, or how to set it up please complete our BurpSuite room first.**: `No Answer Needed`
 3. **what extension is allowed?**: `.phtml`
+4. `No Answer needed`
+5. **What user was running the web serer?**: `bill`
 
 
 
