@@ -2,6 +2,6 @@
 
 Answers for [TryHackMe](https://tryhackme.com) boxes; obtained by Houston-Youth-Computer-Science-Group
 
-## Answers Per Box
+## Boxes' answers
 
 - [vulnversity](vulnversity/answers.md)
