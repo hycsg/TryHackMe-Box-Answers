@@ -27,6 +27,7 @@
 3. **what extension is allowed?**: `.phtml`
 4. `No Answer needed`
 5. **What user was running the web serer?**: `bill`
+6. **What is the user flag?**: `8bd7992fbe8a6ad22a63361004cfcedb`
 
 
 
