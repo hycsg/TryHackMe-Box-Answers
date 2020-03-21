@@ -15,5 +15,9 @@
 7. **What port is the web server running on?**: 3333
 8. **Its important to ensure you are always doing your reconnaissance thoroughly before progressing. Knowing all open services (which can all be points of exploitation) is very important, don't forget that ports on a higher range might be open so always scan ports after 1000 (even if you leave scanning in the background)**: No Answer Needed
 
+## Task 3 (Locating Directories Using GoBuster)
+
+1. **run GoBuster with a wordlist: gobuster dir -u http://<ip>:3333 -w <word list location>**: No Answer Needed
+
 
 
