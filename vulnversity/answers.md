@@ -13,6 +13,7 @@
 5. **Using the nmap flag -n what will it not resolve?**: DNS
 6. **What is the most likely operating system this machine is running?**: Ubuntu
 7. **What port is the web server running on?**: 3333
+8. **Its important to ensure you are always doing your reconnaissance thoroughly before progressing. Knowing all open services (which can all be points of exploitation) is very important, don't forget that ports on a higher range might be open so always scan ports after 1000 (even if you leave scanning in the background)**: No Answer Needed
 
 
 
