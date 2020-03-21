@@ -19,6 +19,10 @@
 
 1. **run GoBuster with a wordlist: gobuster dir -u http://<ip>:3333 -w <word list location>**: `No Answer Needed`
 2. **What is the directory that has an upload form page?**: `/internal/`
+  
+## Task 4 (Compromise the webserver)
+
+1. **Try upload a few file types to the server, what common extension seems to be blocked?**: `.php`
 
 
 
