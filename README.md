@@ -5,3 +5,4 @@ Answers for [TryHackMe](https://tryhackme.com) boxes; obtained by Houston-Youth-
 ## Boxes' answers
 
 - [vulnversity](vulnversity/answers.md)
+- [rpnmap](rpnmap/answers.md)
