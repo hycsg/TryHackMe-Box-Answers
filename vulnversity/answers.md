@@ -32,6 +32,7 @@
 ## Task 5 (Privilege Escalation)
 
 1. **On the system, search for all SUID files. What file stands out?**: `/bin/systemctl`
+2. **Become root and get the last flag (/rooot/root.txt)**: `a58ff8579f0a9270368d33a9966c7fd5`
 
 
 
