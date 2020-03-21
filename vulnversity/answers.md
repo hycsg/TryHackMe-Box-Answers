@@ -18,6 +18,7 @@
 ## Task 3 (Locating Directories Using GoBuster)
 
 1. **run GoBuster with a wordlist: gobuster dir -u http://<ip>:3333 -w <word list location>**: No Answer Needed
+2. **What is the directory that has an upload form page?**: /internal/
 
 
 
