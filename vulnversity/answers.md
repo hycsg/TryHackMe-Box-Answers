@@ -11,5 +11,6 @@
 3. **What version of the squid proxy is running on the machine?**: 3.5.12
 4. **How many ports will nmap scan if the flag -p-400 was used?**: 400
 5. **Using the nmap flag -n what will it not resolve?**: DNS
+6. **What is the most likely operating system this machine is running?**: Ubuntu
 
 
