@@ -9,5 +9,6 @@
 1. **Scan this box**: No Answer Needed
 2. **Scan the box, how many ports are open?**: 6
 3. **What version of the squid proxy is running on the machine?**: 3.5.12
+4. **How many ports will nmap scan if the flag -p-400 was used?**: 400
 
 
