@@ -7,3 +7,5 @@
 3. **What is this machine vulnerable to? (Answer in the form of: ms??-???, ex: ms08-067)**: `ms17-010`
 
 ## Task 2 [Gain Access]
+
+1. **Start Metasploit**: `No answer needed`
