@@ -7,3 +7,4 @@ Answers for [TryHackMe](https://tryhackme.com) boxes; obtained by Houston-Youth-
 - [vulnversity](vulnversity/answers.md)
 - [rpnmap](rpnmap/answers.md)
 - [blue](blue/answers.md)
+- [basicpentestingjt](basicpentesting/answers.md)
