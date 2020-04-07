@@ -7,3 +7,8 @@
 ## Task 2 [Methodology]
 
 1. **No Answer Needed**
+
+## Task 3 [Section 1: SSH - Intro]
+
+1. **No Answer Needed**
+
