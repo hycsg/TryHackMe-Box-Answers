@@ -36,3 +36,9 @@
 ## Task 9 [Section 3: Basic File Operations - touch]
 
 1. **No answer needed**
+
+## Task 10 [Section 3: Basic File Operations - Running A Binary]
+
+1. **No answer needed**
+2. **`~/hello`**
+3. **`../hello`**
