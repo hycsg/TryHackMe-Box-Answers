@@ -20,3 +20,7 @@
 
 1. **No Answer Needed**
 
+## Task 6 [Section 2: Running Commands - Manual Pages and Flags]
+
+1. **`echo -n hello`**
+
