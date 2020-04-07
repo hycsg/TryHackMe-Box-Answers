@@ -28,3 +28,7 @@
 
 1. **`-a`**
 2. **`-l`**
+
+## Task 8 [Sectoin 3: Basic File Operations - cat]
+
+1. **`-n`**
