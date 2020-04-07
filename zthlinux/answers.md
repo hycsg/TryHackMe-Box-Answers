@@ -24,3 +24,7 @@
 
 1. **`echo -n hello`**
 
+## Task 7 [Section 3: Basic File Operations - ls]
+
+1. **`-a`**
+2. **`-l`**
