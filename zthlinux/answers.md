@@ -75,3 +75,7 @@
 
 1. **`export nootnoot=1111`**
 2. **`/home/shiba2`**
+
+## Task 19 [Section 4: Linux Operations: "|"]
+
+1. **No answer needed**
