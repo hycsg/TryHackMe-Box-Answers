@@ -50,3 +50,7 @@
 ## Task 12 [su]
 
 1. **`-s`**
+
+## Task 13 [Section 4 - Linux Operators: Intro]
+
+1. **No answer needed**
