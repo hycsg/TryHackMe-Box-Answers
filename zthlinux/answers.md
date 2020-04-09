@@ -79,3 +79,7 @@
 ## Task 19 [Section 4: Linux Operations: "|"]
 
 1. **No answer needed**
+
+## Task 20 [Section 4: Linux Operators - ";"]
+
+1. **No answer needed**
