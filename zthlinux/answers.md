@@ -54,3 +54,7 @@
 ## Task 13 [Section 4 - Linux Operators: Intro]
 
 1. **No answer needed**
+
+## Task 14 [Section 4: Linux Operators: ">"]
+
+1. **`echo twenty > test`**
