@@ -46,3 +46,7 @@
 ## Task 11 [Binary - Shiba1]
 
 1. **`pinguftw`**
+
+## Task 12 [su]
+
+1. **`-s`**
