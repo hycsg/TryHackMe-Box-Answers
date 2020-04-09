@@ -66,3 +66,7 @@
 ## Task 16 [Section 4: Linux Operators: "&&"]
 
 1. **No answer needed**
+
+## Task 17 [Section 4: Linux Operators: "&"]
+
+1. **No answer needed**
