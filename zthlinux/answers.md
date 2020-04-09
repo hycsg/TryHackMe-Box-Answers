@@ -42,3 +42,7 @@
 1. **No answer needed**
 2. **`~/hello`**
 3. **`../hello`**
+
+## Task 11 [Binary - Shiba1]
+
+1. **`pinguftw`**
