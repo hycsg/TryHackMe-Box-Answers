@@ -70,3 +70,8 @@
 ## Task 17 [Section 4: Linux Operators: "&"]
 
 1. **No answer needed**
+
+## Task 18 [Section 4: Linux Operators: "$"]
+
+1. **`export nootnoot=1111`**
+2. **`/home/shiba2`**
