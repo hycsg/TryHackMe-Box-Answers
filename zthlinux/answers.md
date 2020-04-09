@@ -62,3 +62,7 @@
 ## Task 15 [Section 4: Linux Operators: ">>"]
 
 1. **No answer needed**
+
+## Task 16 [Section 4: Linux Operators: "&&"]
+
+1. **No answer needed**
